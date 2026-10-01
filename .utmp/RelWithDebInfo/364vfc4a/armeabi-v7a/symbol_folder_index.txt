@@ -1,0 +1,1 @@
+/Volumes/Oziny/Game/xelumi/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/364vfc4a/obj/armeabi-v7a

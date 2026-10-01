@@ -1,0 +1,5 @@
+/Volumes/Oziny/Game/xelumi/.utmp/RelWithDebInfo/364vfc4a/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/xelumi/.utmp/RelWithDebInfo/364vfc4a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/Oziny/Game/xelumi/.utmp/RelWithDebInfo/364vfc4a/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/Volumes/Oziny/Game/xelumi/.utmp/RelWithDebInfo/364vfc4a/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/xelumi/.utmp/RelWithDebInfo/364vfc4a/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
